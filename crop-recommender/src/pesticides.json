@@ -1,0 +1,229 @@
+{
+  "rice": {
+    "phase1": [
+      {"disease": "Blast", "pesticide": "Tricyclazole", "instructions": "Spray 1g/litre at early stage"}
+    ],
+    "phase2": [
+      {"disease": "Brown Spot", "pesticide": "Mancozeb", "instructions": "Spray 2g/litre"}
+    ],
+    "phase3": [
+      {"disease": "Sheath Blight", "pesticide": "Validamycin", "instructions": "Apply during flowering"}
+    ]
+  },
+
+  "wheat": {
+    "phase1": [
+      {"disease": "Rust", "pesticide": "Propiconazole", "instructions": "Spray early infection"}
+    ],
+    "phase2": [
+      {"disease": "Powdery Mildew", "pesticide": "Sulphur", "instructions": "Apply during dry weather"}
+    ],
+    "phase3": [
+      {"disease": "Leaf Blight", "pesticide": "Mancozeb", "instructions": "Spray at heading stage"}
+    ]
+  },
+
+  "maize": {
+    "phase1": [
+      {"disease": "Downy Mildew", "pesticide": "Metalaxyl", "instructions": "Seed treatment"}
+    ],
+    "phase2": [
+      {"disease": "Leaf Blight", "pesticide": "Mancozeb", "instructions": "Spray at growth stage"}
+    ],
+    "phase3": [
+      {"disease": "Stem Borer", "pesticide": "Chlorantraniliprole", "instructions": "Apply before tasseling"}
+    ]
+  },
+
+  "chickpea": {
+    "phase1": [
+      {"disease": "Wilt", "pesticide": "Carbendazim", "instructions": "Seed treatment"}
+    ],
+    "phase2": [
+      {"disease": "Leaf Miner", "pesticide": "Spinosad", "instructions": "Spray at vegetative stage"}
+    ],
+    "phase3": [
+      {"disease": "Pod Borer", "pesticide": "Emamectin Benzoate", "instructions": "Apply at flowering"}
+    ]
+  },
+
+  "pigeon_pea": {
+    "phase1": [
+      {"disease": "Wilt", "pesticide": "Carbendazim", "instructions": "Soil treatment"}
+    ],
+    "phase2": [
+      {"disease": "Sterility Mosaic", "pesticide": "Dicofol", "instructions": "Control mites"}
+    ],
+    "phase3": [
+      {"disease": "Pod Fly", "pesticide": "Dimethoate", "instructions": "Spray at flowering"}
+    ]
+  },
+
+  "green_gram": {
+    "phase1": [
+      {"disease": "Yellow Mosaic", "pesticide": "Imidacloprid", "instructions": "Control whiteflies"}
+    ],
+    "phase2": [
+      {"disease": "Leaf Spot", "pesticide": "Mancozeb", "instructions": "Spray at growth stage"}
+    ],
+    "phase3": [
+      {"disease": "Pod Borer", "pesticide": "Spinosad", "instructions": "Apply at flowering"}
+    ]
+  },
+
+  "black_gram": {
+    "phase1": [
+      {"disease": "Yellow Mosaic", "pesticide": "Imidacloprid", "instructions": "Control whiteflies"}
+    ],
+    "phase2": [
+      {"disease": "Powdery Mildew", "pesticide": "Sulphur", "instructions": "Apply during dry conditions"}
+    ],
+    "phase3": [
+      {"disease": "Pod Borer", "pesticide": "Spinosad", "instructions": "Apply at flowering"}
+    ]
+  },
+
+  "lentil": {
+    "phase1": [
+      {"disease": "Wilt", "pesticide": "Carbendazim", "instructions": "Seed treatment"}
+    ],
+    "phase2": [
+      {"disease": "Rust", "pesticide": "Propiconazole", "instructions": "Spray at vegetative stage"}
+    ],
+    "phase3": [
+      {"disease": "Pod Borer", "pesticide": "Spinosad", "instructions": "Apply at flowering"}
+    ]
+  },
+
+  "mustard": {
+    "phase1": [
+      {"disease": "Aphids", "pesticide": "Imidacloprid", "instructions": "Spray early"}
+    ],
+    "phase2": [
+      {"disease": "Alternaria Blight", "pesticide": "Mancozeb", "instructions": "Spray at vegetative stage"}
+    ],
+    "phase3": [
+      {"disease": "White Rust", "pesticide": "Metalaxyl", "instructions": "Apply at flowering"}
+    ]
+  },
+
+  "groundnut": {
+    "phase1": [
+      {"disease": "Leaf Spot", "pesticide": "Chlorothalonil", "instructions": "Spray early"}
+    ],
+    "phase2": [
+      {"disease": "Tikka Disease", "pesticide": "Mancozeb", "instructions": "Spray mid stage"}
+    ],
+    "phase3": [
+      {"disease": "Bud Necrosis", "pesticide": "Imidacloprid", "instructions": "Control thrips"}
+    ]
+  },
+
+  "soybean": {
+    "phase1": [
+      {"disease": "Rust", "pesticide": "Hexaconazole", "instructions": "Spray early"}
+    ],
+    "phase2": [
+      {"disease": "Stem Rot", "pesticide": "Carbendazim", "instructions": "Soil drench"}
+    ],
+    "phase3": [
+      {"disease": "Pod Blight", "pesticide": "Mancozeb", "instructions": "Apply at flowering"}
+    ]
+  },
+
+  "sunflower": {
+    "phase1": [
+      {"disease": "Downy Mildew", "pesticide": "Metalaxyl", "instructions": "Seed treatment"}
+    ],
+    "phase2": [
+      {"disease": "Leaf Spot", "pesticide": "Mancozeb", "instructions": "Spray mid stage"}
+    ],
+    "phase3": [
+      {"disease": "Head Rot", "pesticide": "Carbendazim", "instructions": "Apply at flowering"}
+    ]
+  },
+
+  "cotton": {
+    "phase1": [
+      {"disease": "Aphids", "pesticide": "Imidacloprid", "instructions": "Spray early"}
+    ],
+    "phase2": [
+      {"disease": "Whitefly", "pesticide": "Thiamethoxam", "instructions": "Use traps + spray"}
+    ],
+    "phase3": [
+      {"disease": "Bollworm", "pesticide": "Emamectin Benzoate", "instructions": "Apply at flowering"}
+    ]
+  },
+
+  "sugarcane": {
+    "phase1": [
+      {"disease": "Red Rot", "pesticide": "Carbendazim", "instructions": "Set treatment"}
+    ],
+    "phase2": [
+      {"disease": "Leaf Scald", "pesticide": "Copper Oxychloride", "instructions": "Spray mid stage"}
+    ],
+    "phase3": [
+      {"disease": "Top Rot", "pesticide": "Mancozeb", "instructions": "Apply at maturity"}
+    ]
+  },
+
+  "potato": {
+    "phase1": [
+      {"disease": "Early Blight", "pesticide": "Chlorothalonil", "instructions": "Spray early"}
+    ],
+    "phase2": [
+      {"disease": "Late Blight", "pesticide": "Metalaxyl", "instructions": "Spray mid stage"}
+    ],
+    "phase3": [
+      {"disease": "Tuber Rot", "pesticide": "Mancozeb", "instructions": "Apply late stage"}
+    ]
+  },
+
+  "onion": {
+    "phase1": [
+      {"disease": "Thrips", "pesticide": "Spinosad", "instructions": "Spray early"}
+    ],
+    "phase2": [
+      {"disease": "Purple Blotch", "pesticide": "Mancozeb", "instructions": "Spray mid stage"}
+    ],
+    "phase3": [
+      {"disease": "Downy Mildew", "pesticide": "Metalaxyl", "instructions": "Apply late stage"}
+    ]
+  },
+
+  "tomato": {
+    "phase1": [
+      {"disease": "Early Blight", "pesticide": "Mancozeb", "instructions": "Spray early"}
+    ],
+    "phase2": [
+      {"disease": "Leaf Curl Virus", "pesticide": "Imidacloprid", "instructions": "Control whiteflies"}
+    ],
+    "phase3": [
+      {"disease": "Late Blight", "pesticide": "Copper Oxychloride", "instructions": "Spray before rain"}
+    ]
+  },
+
+  "tea": {
+    "phase1": [
+      {"disease": "Red Spider Mite", "pesticide": "Dicofol", "instructions": "Spray early"}
+    ],
+    "phase2": [
+      {"disease": "Blister Blight", "pesticide": "Copper Fungicide", "instructions": "Spray mid stage"}
+    ],
+    "phase3": [
+      {"disease": "Root Rot", "pesticide": "Carbendazim", "instructions": "Soil treatment"}
+    ]
+  },
+
+  "coffee": {
+    "phase1": [
+      {"disease": "Leaf Rust", "pesticide": "Copper Fungicide", "instructions": "Spray early"}
+    ],
+    "phase2": [
+      {"disease": "Berry Borer", "pesticide": "Chlorpyrifos", "instructions": "Apply mid stage"}
+    ],
+    "phase3": [
+      {"disease": "Anthracnose", "pesticide": "Carbendazim", "instructions": "Spray at fruiting"}
+    ]
+  }
+}

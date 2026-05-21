@@ -1,0 +1,6798 @@
+{
+  "Nicobar Islands": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "North and Middle Andaman": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "South Andaman": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Anantapur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Chittoor": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "East Godavari": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Guntur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Krishna": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Kurnool": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Nellore": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Prakasam": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Srikakulam": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Visakhapatnam": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Vizianagaram": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "West Godavari": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Y.S.R.": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Anjaw": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Changlang": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dibang Valley": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "East Kameng": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "East Siang": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kurung Kumey": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Lohit": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Longding": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Lower Dibang Valley": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Lower Subansiri": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Namsai": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Papum Pare": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Tawang": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Tirap": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Upper Siang": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Upper Subansiri": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "West Kameng": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "West Siang": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Baksa": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Barpeta": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bongaigaon": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Cachar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Chirang": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Darrang": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dhemaji": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dhubri": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dibrugarh": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dima Hasao": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Goalpara": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Golaghat": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Hailakandi": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jorhat": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kamrup": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kamrup Metropolitan": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Karbi Anglong": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Karimganj": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kokrajhar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Lakhimpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Morigaon": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Nagaon": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Nalbari": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sivasagar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sonitpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Tinsukia": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Udalguri": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Araria": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Arwal": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Aurangabad": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Banka": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Begusarai": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bhagalpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bhojpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Buxar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Darbhanga": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Gaya": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Gopalganj": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Jamui": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Jehanabad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kaimur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Katihar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Khagaria": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kishanganj": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Lakhisarai": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Madhepura": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Madhubani": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Munger": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Muzaffarpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Nalanda": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Nawada": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pashchim Champaran": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Patna": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Purba Champaran": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Purnia": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Rohtas": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Saharsa": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Samastipur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Saran": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sheikhpura": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sheohar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sitamarhi": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Siwan": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Supaul": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Vaishali": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Chandigarh": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Balod": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Baloda Bazar": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Balrampur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bastar": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bemetara": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bijapur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bilaspur": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dantewada": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dhamtari": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Durg": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Gariaband": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Janjgir-Champa": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jashpur": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kabeerdham": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kondagaon": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Korba": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Koriya": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mahasamund": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mungeli": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Narayanpur": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Raigarh": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Raipur": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Rajnandgaon": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sukma": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Surajpur": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Surguja": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Uttar Bastar Kanker": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dadra and Nagar Haveli": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Daman": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Diu": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "North Goa": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Laterite-West",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "South Goa": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ahmadabad": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Amreli": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Anand": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Aravalli": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Banas Kantha": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bharuch": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Bhavnagar": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Botad": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Chhota Udaipur": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Dahod": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Devbhumi Dwarka": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Gandhinagar": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Gir Somnath": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Jamnagar": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Junagadh": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Kachchh": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kheda": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Mahesana": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mahisagar": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Morbi": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Narmada": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Navsari": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Panch Mahals": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Patan": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Porbandar": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Rajkot": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Sabar Kantha": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Surat": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Surendranagar": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Tapi": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "The Dangs": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Vadodara": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Valsad": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Ambala": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bhiwani": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Faridabad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Fatehabad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Gurgaon": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Hisar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jhajjar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Jind": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kaithal": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Karnal": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kurukshetra": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Mahendragarh": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Mewat": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Palwal": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Panchkula": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Panipat": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Rewari": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Rohtak": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sirsa": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sonipat": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Yamunanagar": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Chamba": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Hamirpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kangra": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kinnaur": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kullu": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Lahul & Spiti": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mandi": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Shimla": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sirmaur": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Solan": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Una": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Anantnag": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Badgam": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bandipore": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Baramulla": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Doda": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ganderbal": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jammu": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kargil": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kathua": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kishtwar": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kulgam": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kupwara": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Leh (Ladakh)": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Poonch": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pulwama": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Rajouri": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ramban": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Reasi": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Samba": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Shupiyan": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Srinagar": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Udhampur": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bokaro": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Chatra": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Deoghar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dhanbad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dumka": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Garhwa": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Giridih": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Godda": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Gumla": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Hazaribagh": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jamtara": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Khunti": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kodarma": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Latehar": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Lohardaga": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pakur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Palamu": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pashchimi Singhbhum": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Purbi Singhbhum": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ramgarh": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ranchi": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sahibganj": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Saraikela-kharsawan": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Simdega": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bagalkot": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bangalore": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bangalore Rural": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Belgaum": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bellary": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bidar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Chamrajnagar": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Chikballapura": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Chikmagalur": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Chitradurga": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dakshina Kannada": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Davanagere": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dharwad": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Gadag": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Gulbarga": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Hassan": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Haveri": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kodagu": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Kolar": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Koppal": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mandya": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Mysore": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Raichur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ramanagara": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Shimoga": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Tumkur": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Udupi": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Uttara Kannada": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Yadgir": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Alappuzha": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Ernakulam": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Idukki": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Kannur": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kasaragod": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Kollam": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kottayam": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Kozhikode": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Malappuram": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Palakkad": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Pathanamthitta": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Thiruvananthapuram": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Thrissur": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Wayanad": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Lakshadweep": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Agar Malwa": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Alirajpur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Anuppur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ashoknagar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Balaghat": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Barwani": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Betul": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bhind": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bhopal": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Burhanpur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Chhatarpur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Chhindwara": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Damoh": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Datia": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dewas": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dhar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dindori": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "East Nimar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Guna": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Gwalior": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Harda": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Hoshangabad": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Indore": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Jabalpur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Jhabua": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Katni": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Mandla": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Mandsaur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Morena": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Narsimhapur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Neemuch": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Panna": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Raisen": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Rajgarh": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ratlam": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Rewa": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sagar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Satna": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sehore": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Seoni": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Shahdol": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Shajapur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sheopur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Shivpuri": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sidhi": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Singrauli": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Tikamgarh": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ujjain": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Umaria": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Vidisha": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "West Nimar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ahmadnagar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Akola": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Amravati": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Bhandara": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Bid": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Buldana": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Chandrapur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dhule": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Garhchiroli": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Gondiya": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Hingoli": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jalgaon": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Jalna": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kolhapur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Laterite-West",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Latur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mumbai City": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mumbai Suburban": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Nagpur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Nanded": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Nandurbar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Nashik": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Osmanabad": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Palghar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Parbhani": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pune": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ratnagiri": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Laterite-West",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sangli": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Laterite-West",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Satara": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Laterite-West",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sindhudurg": {
+    "soil_types": [
+      {
+        "soil_type": "Laterite-West",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Solapur": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Thane": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Wardha": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Washim": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Yavatmal": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bishnupur": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Chandel": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Churachandpur": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Imphal East": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Imphal West": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Senapati": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Tamenglong": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Thoubal": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ukhrul": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "East Garo Hills": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "East Khasi Hills": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jaintia Hills": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "North Garo Hills": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ri Bhoi": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "South Garo Hills": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "South West Garo Hills": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "South West Khasi Hills": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "West Garo Hills": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "West Khasi Hills": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Aizawl": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Champhai": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kolasib": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Lawangtlai": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Lunglei": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mamit": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Saiha": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Serchhip": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dimapur": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kiphire": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kohima": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Longleng": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mokokchung": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mon": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Peren": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Phek": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Tuensang": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Wokha": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Zunheboto": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "West": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Anugul": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Balangir": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Baleshwar": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bargarh": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bauda": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bhadrak": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Cuttack": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Debagarh": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dhenkanal": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Gajapati": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ganjam": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jagatsinghapur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jajapur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jharsuguda": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kalahandi": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kandhamal": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kendrapara": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kendujhar": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Khordha": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Koraput": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Malkangiri": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mayurbhanj": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Nabarangapur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Nayagarh": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Nuapada": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Puri": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Rayagada": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sambalpur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Subarnapur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sundargarh": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Karaikal": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mahe": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Laterite",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Puducherry": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Yanam": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Amritsar": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Barnala": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bathinda": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Faridkot": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Fatehgarh Sahib": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Fazilka": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Firozpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Gurdaspur": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Hoshiarpur": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jalandhar": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kapurthala": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ludhiana": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mansa": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Moga": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Muktsar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pathankot": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Patiala": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Rupnagar": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sahibzada Ajit Singh Nagar": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sangrur": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Shahid Bhagat Singh Nagar": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Tarn Taran": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ajmer": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Alwar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Banswara": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Baran": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Barmer": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bharatpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bhilwara": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bikaner": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bundi": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Chittaurgarh": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Churu": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dausa": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dhaulpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dungarpur": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ganganagar": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Hanumangarh": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jaipur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jaisalmer": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jalor": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jhalawar": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Jhunjhunun": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jodhpur": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Karauli": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kota": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Nagaur": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Pali": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pratapgarh": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Rajsamand": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sawai Madhopur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sikar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sirohi": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Tonk": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Udaipur": {
+    "soil_types": [
+      {
+        "soil_type": "Desert",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "East Sikkim": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "North Sikkim": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "South Sikkim": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "West Sikkim": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ariyalur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Chennai": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Coimbatore": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Cuddalore": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dharmapuri": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dindigul": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Erode": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Kancheepuram": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kanniyakumari": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Karur": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Krishnagiri": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Madurai": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Nagappattinam": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Namakkal": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Perambalur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pudukkottai": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ramanathapuram": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Salem": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sivaganga": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Thanjavur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "The Nilgiris": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Theni": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Thiruvallur": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Thiruvarur": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Thoothukkudi": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Tiruchirappalli": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Tirunelveli": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Tiruppur": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.333
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.333
+      }
+    ]
+  },
+  "Tiruvannamalai": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Vellore": {
+    "soil_types": [
+      {
+        "soil_type": "Red",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Viluppuram": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Virudunagar": {
+    "soil_types": [
+      {
+        "soil_type": "Coastal",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Coastal-South",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Adilabad": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Hyderabad": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Karimnagar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Khammam": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mahbubnagar": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Medak": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Nalgonda": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Nizamabad": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ranga Reddy": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Warangal": {
+    "soil_types": [
+      {
+        "soil_type": "Black",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dhalai": {
+    "soil_types": [
+      {
+        "soil_type": "Peaty",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Gomati": {
+    "soil_types": [
+      {
+        "soil_type": "Peaty",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Khowai": {
+    "soil_types": [
+      {
+        "soil_type": "Peaty",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "North Tripura": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sipahijala": {
+    "soil_types": [
+      {
+        "soil_type": "Peaty",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "South Tripura": {
+    "soil_types": [
+      {
+        "soil_type": "Peaty",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Unokoti": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "West Tripura": {
+    "soil_types": [
+      {
+        "soil_type": "Peaty",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Agra": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Aligarh": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Allahabad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Ambedkar Nagar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Amethi": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Amroha": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Auraiya": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Azamgarh": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Baghpat": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Bahraich": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ballia": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Banda": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Barabanki": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bareilly": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Basti": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bijnor": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Budaun": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bulandshahr": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Chandauli": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Chitrakoot": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Deoria": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Etah": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Etawah": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Faizabad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Farrukhabad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Fatehpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Firozabad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Gautam Buddha Nagar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ghaziabad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Ghazipur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Gonda": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Gorakhpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Hapur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Hardoi": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Hathras": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Jalaun": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Jaunpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jhansi": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kannauj": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kanpur Dehat": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kanpur Nagar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kasganj": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kaushambi": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Kushinagar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Lakhimpur Kheri": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Lalitpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Lucknow": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Maharajganj": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Mahoba": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mainpuri": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Mathura": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Mau": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Meerut": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Mirzapur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Moradabad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Muzaffarnagar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pilibhit": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Rae Bareli": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Rampur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Saharanpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sambhal": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sant Kabir Nagar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sant Ravi Das Nagar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Shahjahanpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Shamli": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Shravasti": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Siddharth Nagar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sitapur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Sonbhadra": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Sultanpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Unnao": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Varanasi": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Almora": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bageshwar": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Chamoli": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Champawat": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Dehradun": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Garhwal": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Hardwar": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Nainital": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pithoragarh": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Rudraprayag": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Tehri Garhwal": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Udham Singh Nagar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-Gangetic",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Uttarkashi": {
+    "soil_types": [
+      {
+        "soil_type": "Mountain",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Alipurduar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Peaty",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Bankura": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Barddhaman": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Birbhum": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Dakshin Dinajpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Darjiling": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Peaty",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Haora": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Hugli": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Jalpaiguri": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Peaty",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Koch Bihar": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Peaty",
+        "fraction": 0.5
+      }
+    ]
+  },
+  "Kolkata": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Maldah": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Murshidabad": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Nadia": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "North 24 Parganas": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Pashchim Medinipur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Purba Medinipur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Puruliya": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "South 24 Parganas": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 1.0
+      }
+    ]
+  },
+  "Uttar Dinajpur": {
+    "soil_types": [
+      {
+        "soil_type": "Alluvial",
+        "fraction": 0.5
+      },
+      {
+        "soil_type": "Alluvial-East",
+        "fraction": 0.5
+      }
+    ]
+  }
+}

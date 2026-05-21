@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title data-translate="CropRec – Smart Agriculture">CropRec – Smart Agriculture</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    body {
+      background-color: #eefdf3;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .hero-bg {
+      background:
+        linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+        url("../images/hero.jpg") center / cover no-repeat;
+    }
+
+    /* Fade In */
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .animate-fadeIn {
+      animation: fadeIn 1s ease-out forwards;
+    }
+
+    /* Active Link Style */
+    .active-link {
+      color: #b7f7c1 !important;
+      border-bottom: 2px solid white;
+      padding-bottom: 2px;
+    }
+
+    /* Mobile Menu Smooth Expand */
+    #mobileMenu {
+      transition: max-height 0.4s ease;
+    }
+.logo {
+  width: 260px;
+  height: 40px;
+
+  background-image: url("../images/final.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+
+  transform: scale(3.6);
+  transform-origin: left center;
+
+  margin-top: -23px;   
+}
+
+
+
+
+
+  </style>
+  <style>
+    /* ===== MOBILE RESPONSIVE ADD-ONLY FIX ===== */
+
+/* Prevent horizontal scroll */
+html, body {
+  overflow-x: hidden;
+}
+
+/* Fix logo overflow without removing original */
+@media (max-width: 768px) {
+  .logo {
+    transform: scale(1.8) !important;
+    margin-top: 0 !important;
+  }
+}
+
+/* Hero spacing fix */
+@media (max-width: 768px) {
+  .hero-bg .text-center {
+    padding-top: 6rem !important;
+    padding-bottom: 10rem !important;
+  }
+}
+
+/* Hero text scaling */
+@media (max-width: 768px) {
+  .hero-bg h1 {
+    font-size: 1.5rem !important;
+  }
+
+  .hero-bg p {
+    font-size: 0.9rem !important;
+  }
+}
+
+/* Floating stats spacing */
+@media (max-width: 768px) {
+  .hero-bg .absolute {
+    bottom: 2rem !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+}
+
+/* Card padding reduce */
+@media (max-width: 768px) {
+  .p-10 {
+    padding: 1.5rem !important;
+  }
+}
+
+/* Feature section spacing */
+@media (max-width: 768px) {
+  section.py-28 {
+    padding-top: 4rem !important;
+    padding-bottom: 4rem !important;
+  }
+}
+
+/* Grid gap tighter */
+@media (max-width: 768px) {
+  .gap-10 {
+    gap: 1.5rem !important;
+  }
+}
+
+/* Navbar padding */
+@media (max-width: 768px) {
+  nav {
+    padding: 0.75rem 1rem !important;
+  }
+}
+
+/* Mobile menu spacing */
+@media (max-width: 768px) {
+  #mobileMenu {
+    padding: 1rem !important;
+    gap: 0.75rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Disable floating behavior on mobile */
+  .hero-bg .absolute {
+    position: static !important;
+    transform: none !important;
+    margin-top: 2rem;
+  }
+
+  /* Reduce huge bottom padding */
+  .hero-bg .text-center {
+    padding-bottom: 4rem !important;
+  }
+  /* Hide floating stats on mobile only */
+@media (max-width: 768px) {
+  .hero-bg > .absolute {
+    display: none !important;
+  }
+}
+}
+  </style>
+</head>
+
+<body class="min-h-screen">
+
+<!-- NAVBAR -->
+<nav class="fixed top-0 left-0 w-full bg-[#0F8A4B]/80 backdrop-blur-lg border-b border-white/10 text-white shadow-xl 
+    px-6 md:px-12 py-4 flex items-center justify-between z-50 transition-all duration-300">
+
+  <div class="logo"></div>
+
+  <!-- MOBILE MENU BUTTON -->
+  <button id="menuBtn" class="md:hidden text-3xl focus:outline-none">☰</button>
+
+  <ul class="hidden md:flex items-center gap-8 text-lg font-medium">
+
+    <li><a href="index.html" class="hover:text-green-200 transition duration-300" data-translate="Home">Home</a></li>
+    <li><a href="services.html" class="hover:text-green-200 transition duration-300" data-translate="Services">Services</a></li>
+    <li><a href="contact.html" class="hover:text-green-200 transition duration-300" data-translate="Contact">Contact</a></li>
+
+    <!-- LANGUAGE SELECTOR -->
+    <li>
+      <select id="languageSelector"
+        class="px-3 py-1 rounded-lg bg-white text-green-900 font-semibold cursor-pointer text-sm transition duration-300 hover:scale-105">
+        <option value="en">English</option>
+        <option value="hi">हिन्दी</option>
+        <option value="mr">मराठी</option>
+        <option value="kn">ಕನ್ನಡ</option>
+        <option value="ta">தமிழ்</option>
+        <option value="gu">ગુજરાતી</option>
+        <option value="bho">भोजपुरी</option>
+        <option value="bn">বাংলা</option>
+        <option value="ml">മലയാളം</option>
+        <option value="pa">ਪੰਜਾਬੀ</option>
+      </select>
+    </li>
+
+    <!-- LOGIN -->
+    <li id="loginNav">
+      <a href="login.html" class="hover:text-green-200 transition duration-300" data-translate="Login">Login</a>
+    </li>
+
+    <!-- USER MENU -->
+    <li id="userMenu" class="relative hidden">
+
+      <div id="userIcon"
+        class="w-10 h-10 bg-white/90 text-green-900 font-bold rounded-full 
+        flex items-center justify-center cursor-pointer shadow-md border border-green-300
+        transition duration-300 hover:scale-110">
+      </div>
+
+      <div id="userDropdown"
+        class="absolute right-0 mt-2 w-40 bg-white text-black shadow-lg 
+               border border-green-200 rounded-xl hidden transition duration-300">
+        <a href="dashboard.html" class="block px-4 py-2 hover:bg-green-100 transition duration-300"
+          data-translate="Dashboard">
+          Dashboard
+        </a>
+
+        <button onclick="logout()"
+          class="w-full text-left px-4 py-2 hover:bg-red-100 text-red-700 transition duration-300"
+          data-translate="Logout">
+          Logout
+        </button>
+
+      </div>
+
+    </li>
+
+  </ul>
+</nav>
+
+<!-- MOBILE MENU -->
+<div id="mobileMenu" class="md:hidden bg-[#0F8A4B]/95 backdrop-blur-xl border-b border-white/10 text-white px-6 py-4 hidden space-y-4 shadow-2xl transition-all duration-300">
+  <a href="index.html" class="block hover:text-green-200 transition duration-300" data-translate="Home">Home</a>
+  <a href="services.html" class="block hover:text-green-200 transition duration-300" data-translate="Services">Services</a>
+  <a href="contact.html" class="block hover:text-green-200 transition duration-300" data-translate="Contact">Contact</a>
+  <a href="login.html" id="mobileLogin" class="block hover:text-green-200 transition duration-300" data-translate="Login">Login</a>
+</div>
+
+<!-- HERO SECTION -->
+<section class="hero-bg relative min-h-screen flex items-center justify-center animate-fadeIn">
+
+  <div class="text-center text-white px-6 pt-32 pb-72 max-w-4xl">
+
+    <h1 class="text-4xl md:text-5xl font-extrabold leading-tight animate-fadeIn"
+        data-translate="Smart Crop Recommendations for Smarter Harvests.">
+        Smart Crop Recommendations for Smarter Harvests.
+    </h1>
+
+    <p class="text-lg md:text-xl mt-5 text-gray-100 animate-fadeIn"
+       data-translate="CropRec provides intelligent insights for crops, weather, disease & markets — helping you make confident farming decisions.">
+      CropRec provides intelligent insights for crops, weather, disease & markets — helping you make confident farming decisions.
+    </p>
+
+    <a href="crop.html"
+      class="inline-flex mt-10 px-10 py-3 bg-white text-green-800 
+             rounded-xl text-lg font-semibold hover:bg-green-100 transition duration-300 hover:scale-105 shadow-xl animate-fadeIn"
+      data-translate="Get Started">
+      Get Started
+    </a>
+  </div>
+
+  <!-- FLOATING STATS -->
+  <div class="absolute bottom-20 left-1/2 transform -translate-x-1/2 
+              w-full max-w-6xl px-6">
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+
+      <div class="bg-white/80 backdrop-blur-md 
+                  border border-white/40 rounded-2xl p-10 text-center shadow-xl
+                  transition duration-300 hover:scale-105 animate-fadeIn">
+
+        <h2 class="text-3xl font-bold text-gray-900">92%</h2>
+        <p class="text-gray-700" data-translate="Prediction Accuracy">Prediction Accuracy</p>
+      </div>
+
+      <div class="bg-white/80 backdrop-blur-md 
+                  border border-white/40 rounded-2xl p-10 text-center shadow-xl
+                  transition duration-300 hover:scale-105 animate-fadeIn">
+
+        <h2 class="text-4xl font-bold text-gray-900">2+</h2>
+        <p class="text-gray-700" data-translate="Farmers Benefited">Farmers Benefited</p>
+      </div>
+
+      <div class="bg-white/80 backdrop-blur-md 
+                  border border-white/40 rounded-2xl p-10 text-center shadow-xl
+                  transition duration-300 hover:scale-105 animate-fadeIn">
+
+        <h2 class="text-4xl font-bold text-gray-900">85%</h2>
+        <p class="text-gray-700" data-translate="Reduced Crop Loss">Reduced Crop Loss</p>
+      </div>
+
+    </div>
+  </div>
+
+</section>
+
+<!-- FEATURES -->
+<section class="bg-[#ddf1e6] py-28 px-6">
+
+  <div class="text-center max-w-3xl mx-auto mb-16 animate-fadeIn">
+    <h2 class="text-5xl font-extrabold text-green-900" data-translate="Features">Features</h2>
+    <p class="text-gray-700 text-lg mt-4"
+       data-translate="AI-powered solutions designed to enhance productivity, profitability, and sustainability for modern farmers.">
+      AI-powered solutions designed to enhance productivity, profitability, and sustainability for modern farmers.
+    </p>
+  </div>
+
+  <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-10">
+
+    <div class="bg-white shadow-lg rounded-2xl p-10 text-center transition duration-300 hover:scale-105 animate-fadeIn">
+      <img src="../images/crop.png" class="w-16 h-16 mx-auto mb-4" alt="">
+      <h3 class="text-2xl font-bold text-green-800" data-translate="Crop Recommendation">Crop Recommendation</h3>
+      <p class="text-gray-600" data-translate="Best crops based on soil & climate.">Best crops based on soil & climate.</p>
+    </div>
+
+    <div class="bg-white shadow-lg rounded-2xl p-10 text-center transition duration-300 hover:scale-105 animate-fadeIn">
+      <img src="../images/pesticide.png" class="w-16 h-16 mx-auto mb-4" alt="">
+      <h3 class="text-2xl font-bold text-green-800" data-translate="Pesticide Recommendation">Pesticide Recommendation</h3>
+      <p class="text-gray-600" data-translate="Safe & effective pesticide guidance.">Safe & effective pesticide guidance.</p>
+    </div>
+
+    <div class="bg-white shadow-lg rounded-2xl p-10 text-center transition duration-300 hover:scale-105 animate-fadeIn">
+      <img src="../images/yield.webp" class="w-16 h-16 mx-auto mb-4" alt="">
+      <h3 class="text-2xl font-bold text-green-800" data-translate="Yield Prediction">Yield Prediction</h3>
+      <p class="text-gray-600" data-translate="Predict yields using AI models.">Predict yields using AI models.</p>
+    </div>
+
+    <div class="bg-white shadow-lg rounded-2xl p-10 text-center transition duration-300 hover:scale-105 animate-fadeIn">
+      <div class="text-6xl mb-4">🌐</div>
+      <h3 class="text-2xl font-bold text-green-800" data-translate="Multilingual Support">Multilingual Support</h3>
+      <p class="text-gray-600" data-translate="Available in Indian languages.">Available in Indian languages.</p>
+    </div>
+
+    <div class="bg-white shadow-lg rounded-2xl p-10 text-center transition duration-300 hover:scale-105 animate-fadeIn">
+      <img src="../images/weather.png" class="w-16 h-16 mx-auto mb-4" alt="">
+      <h3 class="text-2xl font-bold text-green-800" data-translate="Weather Insights">Weather Insights</h3>
+      <p class="text-gray-600" data-translate="Rainfall & climate alerts.">Rainfall & climate alerts.</p>
+    </div>
+
+    <div class="bg-white shadow-lg rounded-2xl p-10 text-center transition duration-300 hover:scale-105 animate-fadeIn">
+      <img src="../images/market.jpeg" class="w-16 h-16 mx-auto mb-4" alt="">
+      <h3 class="text-2xl font-bold text-green-800" data-translate="Market Insights">Market Insights</h3>
+      <p class="text-gray-600" data-translate="Track prices & demand trends.">Track prices & demand trends.</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- FOOTER (UNCHANGED) -->
+<footer class="bg-[#2B2B2B] text-white pt-16 pb-10">
+
+  <div class="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10 animate-fadeIn">
+
+    <div>
+      <h2 class="text-2xl font-bold" data-translate="CropRec">CropRec</h2>
+      <p class="mt-4 text-gray-300"
+         data-translate="Improving farming with AI-driven predictions and smart insights.">
+        Improving farming with AI-driven predictions and smart insights.
+      </p>
+      <p class="mt-6 text-gray-400 text-sm" data-translate="© 2025 CropRec. All rights reserved.">
+        © 2025 CropRec. All rights reserved.
+      </p>
+    </div>
+
+    <div>
+      <h3 class="text-xl font-semibold mb-4" data-translate="Quick Links">Quick Links</h3>
+      <ul class="space-y-2 text-gray-300">
+        <li class="hover:text-white transition" data-translate="Home">Home</li>
+        <li class="hover:text-white transition" data-translate="Services">Services</li>
+        <li class="hover:text-white transition" data-translate="Contact">Contact</li>
+        <li class="hover"text-white transition" data-translate="Login">Login</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 class="text-xl font-semibold mb-4" data-translate="Contact Info">Contact Info</h3>
+
+      <p class="flex items-center gap-2 hover:scale-105 transition">
+        <img src="../images/phone.png" class="w-5 h-5 object-contain" alt="call">
+        +91 7049665286
+      </p>
+
+      <p class="flex items-center gap-2 hover:scale-105 transition">
+        <img src="../images/mail.webp" class="w-5 h-5 object-contain" alt="mail">
+        avikedare27@gmail.com
+      </p>
+
+      <p data-translate="Indore, India" class="hover:scale-105 transition">📍 Indore, India</p>
+    </div>
+
+  </div>
+
+  <div class="max-w-7xl mx-auto px-6 mt-6">
+    <p class="text-right text-gray-300 hover:text-white transition">
+      Developed By <span class="font-semibold">Debug Warriors</span>
+    </p>
+  </div>
+
+</footer>
+
+<!-- ⭐ ACTIVE LINK + MENU + USER SCRIPT -->
+<script>
+  /* ACTIVE LINK HIGHLIGHT */
+  const currentPage = window.location.pathname.split("/").pop();
+
+  // Desktop navbar links
+  document.querySelectorAll("nav a").forEach(link => {
+    if (link.getAttribute("href") === currentPage) {
+      link.classList.add("active-link");
+    }
+  });
+
+  // Mobile navbar links
+  document.querySelectorAll("#mobileMenu a").forEach(link => {
+    if (link.getAttribute("href") === currentPage) {
+      link.classList.add("active-link");
+    }
+  });
+
+  /* MOBILE MENU HANDLER */
+  const menuBtn = document.getElementById("menuBtn");
+  const mobileMenu = document.getElementById("mobileMenu");
+
+  menuBtn.addEventListener("click", () => {
+    mobileMenu.classList.toggle("hidden");
+  });
+
+  /* USER LOAD */
+  function loadUser() {
+    const user = JSON.parse(localStorage.getItem("user"));
+    if (!user) return;
+
+    document.getElementById("loginNav").classList.add("hidden");
+    document.getElementById("mobileLogin").classList.add("hidden");
+    document.getElementById("userMenu").classList.remove("hidden");
+
+    document.getElementById("userIcon").innerText =
+      user.name.charAt(0).toUpperCase();
+  }
+
+  /* USER DROPDOWN */
+  document.addEventListener("click", (e) => {
+    const icon = document.getElementById("userIcon");
+    const dropdown = document.getElementById("userDropdown");
+
+    if (icon.contains(e.target)) dropdown.classList.toggle("hidden");
+    else if (!dropdown.contains(e.target)) dropdown.classList.add("hidden");
+  });
+
+  function logout() {
+    localStorage.removeItem("user");
+    localStorage.removeItem("token");
+    window.location.href = "login.html";
+  }
+
+  loadUser();
+</script>
+
+<script src="translate.js"></script>
+
+</body>
+</html>

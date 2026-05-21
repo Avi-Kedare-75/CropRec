@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-translate="Register - CropRec">Register - CropRec</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    body { font-family: 'Inter', sans-serif; background-color:#ddf1e6; }
+    .logo {
+  width: 260px;
+  height: 40px;
+
+  background-image: url("../images/final.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+
+  transform: scale(3.6);
+  transform-origin: left center;
+
+  margin-top: -23px;   
+}
+  </style>
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="fixed top-0 left-0 w-full bg-[#0F8A4B]/80 backdrop-blur-lg border-b border-white/10 text-white shadow-xl 
+      px-6 md:px-12 py-4 flex items-center justify-between z-50 transition-all duration-300">
+
+    <div class="logo"></div>
+
+    <ul class="hidden md:flex items-center gap-8 text-lg font-medium">
+
+      <li><a href="index.html" class="hover:text-green-200" data-translate="Home">Home</a></li>
+      <li><a href="services.html" class="hover:text-green-200" data-translate="Services">Services</a></li>
+      <li><a href="contact.html" class="hover:text-green-200" data-translate="Contact">Contact</a></li>
+
+      <!-- LOGIN BUTTON -->
+      <li id="loginNav">
+        <a href="login.html" class="hover:text-green-200" data-translate="Login">Login</a>
+      </li>
+
+      <!-- USER MENU -->
+      <li id="userMenu" class="relative hidden">
+
+        <div id="userIcon"
+          class="w-10 h-10 bg-white/90 text-green-900 font-bold rounded-full 
+                 flex items-center justify-center cursor-pointer 
+                 shadow-md border border-green-300"></div>
+
+        <div id="userDropdown"
+          class="absolute right-0 mt-2 w-40 bg-white text-black shadow-lg 
+                 border border-green-200 rounded-xl hidden">
+
+          <a href="dashboard.html" class="block px-4 py-2 hover:bg-green-100" data-translate="Dashboard">
+            Dashboard
+          </a>
+
+          <button onclick="logout()"
+            class="w-full text-left px-4 py-2 hover:bg-red-100 text-red-700"
+            data-translate="Logout">
+            Logout
+          </button>
+
+        </div>
+
+      </li>
+
+    </ul>
+  </nav>
+
+
+  <!-- REGISTER CARD -->
+  <section class="pt-40 pb-20 px-6 flex justify-center min-h-screen items-center bg-gradient-to-br from-[#eefdf3] to-[#c6f7d0]">
+    <div class="bg-white/60 backdrop-blur-xl shadow-2xl border border-white/50 rounded-3xl p-10 w-full max-w-md relative transition-all duration-300 hover:shadow-green-500/20">
+
+      <a href="login.html"
+        class="absolute top-4 right-4 bg-red-500 hover:bg-red-600 text-white rounded-full w-8 h-8 
+               flex items-center justify-center">✖</a>
+
+      <h2 class="text-4xl font-extrabold text-green-900 text-center mb-6"
+          data-translate="Create Account">Create Account</h2>
+
+      <form id="registerForm" class="space-y-6">
+
+        <!-- NAME -->
+        <div>
+          <label class="font-semibold text-gray-800" data-translate="Full Name">Full Name</label>
+          <input id="name" required
+            class="w-full mt-2 p-3 border border-green-400 rounded-xl outline-none"
+            placeholder="Enter your name">
+        </div>
+
+        <!-- EMAIL -->
+        <div>
+          <label class="font-semibold text-gray-800" data-translate="Email">Email</label>
+          <input id="email" type="email" required
+            class="w-full mt-2 p-3 border border-green-400 rounded-xl outline-none"
+            placeholder="Enter your email">
+        </div>
+
+        <!-- PASSWORD -->
+        <div>
+          <label class="font-semibold text-gray-800" data-translate="Password">Password</label>
+          <input id="password" type="password" required
+            class="w-full mt-2 p-3 border border-green-400 rounded-xl outline-none"
+            placeholder="Choose a password">
+        </div>
+
+        <button
+          class="w-full bg-gradient-to-r from-green-600 to-green-800 hover:from-green-700 hover:to-green-900 text-white py-3 rounded-xl text-lg font-semibold shadow-lg transition-all duration-300 hover:scale-[1.02]"
+          data-translate="Register">
+          Register
+        </button>
+
+        <p class="text-center text-gray-700 mt-4">
+          <span data-translate="Already a user?">Already a user?</span>
+          <a href="login.html" class="text-green-700 font-semibold hover:underline"
+             data-translate="Login here">Login here</a>
+        </p>
+
+      </form>
+
+      <p id="errorMsg" 
+         class="text-red-600 mt-3 text-center font-semibold hidden"
+         data-translate=""></p>
+
+      <p id="successMsg" 
+         class="text-green-600 mt-3 text-center font-semibold hidden"
+         data-translate=""></p>
+
+    </div>
+  </section>
+
+  <!-- REGISTER API SCRIPT -->
+  <script>
+    const API = "http://localhost:5000";
+
+    document.getElementById("registerForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      const name = document.getElementById("name").value.trim();
+      const email = document.getElementById("email").value.trim();
+      const password = document.getElementById("password").value.trim();
+
+      const res = await fetch(API + "/auth/register", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ name, email, password })
+      });
+
+      const data = await res.json();
+
+      if (data.error) {
+        errorMsg.innerText = data.error;
+        errorMsg.classList.remove("hidden");
+        successMsg.classList.add("hidden");
+        return;
+      }
+
+      successMsg.innerText = "Registration successful! Please verify your email.";
+      successMsg.classList.remove("hidden");
+      errorMsg.classList.add("hidden");
+    });
+  </script>
+
+  <script src="nav.js"></script>
+  <script src="translate.js"></script>
+
+</body>
+</html>

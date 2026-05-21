@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-translate="Dashboard - CropRec">Dashboard - CropRec</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    body { font-family: 'Inter', sans-serif; background-color: #ddf1e6; }
+    .logo {
+  width: 260px;
+  height: 40px;
+
+  background-image: url("../images/final.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+
+  transform: scale(3.6);
+  transform-origin: left center;
+
+  margin-top: -23px;   
+}
+  </style>
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="fixed top-0 left-0 w-full bg-[#0F8A4B]/80 backdrop-blur-lg border-b border-white/10 text-white shadow-xl 
+      px-6 md:px-12 py-4 flex items-center justify-between z-50 transition-all duration-300">
+
+    <div class="logo"></div>
+
+    <ul class="hidden md:flex items-center gap-8 text-lg font-medium">
+
+      <li><a href="index.html" class="hover:text-green-200" data-translate="Home">Home</a></li>
+      <li><a href="services.html" class="hover:text-green-200" data-translate="Services">Services</a></li>
+      <li><a href="contact.html" class="hover:text-green-200" data-translate="Contact">Contact</a></li>
+
+      <!-- LOGIN -->
+      <li id="loginNav">
+        <a href="login.html" class="hover:text-green-200" data-translate="Login">Login</a>
+      </li>
+
+      <!-- USER MENU -->
+      <li id="userMenu" class="relative hidden">
+
+        <div id="userIcon"
+          class="w-10 h-10 bg-white/90 text-green-900 font-bold rounded-full 
+                 flex items-center justify-center cursor-pointer shadow-md border border-green-300">
+        </div>
+
+        <div id="userDropdown"
+          class="absolute right-0 mt-2 w-40 bg-white text-black shadow-lg 
+                 border border-green-200 rounded-xl hidden">
+
+          <a href="dashboard.html" class="block px-4 py-2 hover:bg-green-100" data-translate="Dashboard">
+            Dashboard
+          </a>
+
+          <button onclick="logout()"
+            class="w-full text-left px-4 py-2 hover:bg-red-100 text-red-700"
+            data-translate="Logout">
+            Logout
+          </button>
+
+        </div>
+
+      </li>
+
+    </ul>
+  </nav>
+
+
+
+  <!-- DASHBOARD CONTENT -->
+  <section class="pt-40 pb-20 px-6 min-h-screen bg-gradient-to-br from-[#eefdf3] to-[#c6f7d0]">
+
+    <!-- USER INFO CARD -->
+    <div class="max-w-4xl mx-auto bg-white/70 backdrop-blur-xl shadow-2xl p-10 rounded-3xl border border-white/50 transition-all duration-300 hover:shadow-green-500/20">
+      
+      <h2 class="text-3xl font-extrabold text-green-900 mb-6 flex items-center gap-3"
+          data-translate="Your Profile">
+        👤 Your Profile
+      </h2>
+
+      <div class="flex items-center gap-6">
+        <div id="profileIcon"
+          class="w-20 h-20 bg-green-700 text-white text-3xl font-bold rounded-full 
+                 flex items-center justify-center shadow-lg">
+        </div>
+
+        <div>
+          <p class="text-xl font-bold text-green-900" id="profileName">Name</p>
+          <p class="text-gray-700 text-lg" id="profileEmail">Email</p>
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- NAVIGATION GRID -->
+    <div class="max-w-5xl mx-auto mt-12 grid grid-cols-1 md:grid-cols-3 gap-10">
+
+      <a href="crop.html" 
+         class="bg-white/70 backdrop-blur-md p-10 rounded-3xl shadow-xl border border-white/50 text-center transition-all duration-300 hover:scale-105 hover:shadow-green-500/30">
+        <img src="../images/crop.png" class="w-20 h-20 mx-auto mb-4" alt="">
+        <h3 class="text-xl font-bold text-green-800" data-translate="Crop Recommendation">
+          Crop Recommendation
+        </h3>
+      </a>
+
+      <a href="pesticide.html" 
+         class="bg-white/70 backdrop-blur-md p-10 rounded-3xl shadow-xl border border-white/50 text-center transition-all duration-300 hover:scale-105 hover:shadow-green-500/30">
+        <img src="../images/pesticide.png" class="w-20 h-20 mx-auto mb-4 object-contain" />
+        <h3 class="text-xl font-bold text-green-800" data-translate="Pesticide Suggestion">
+          Pesticide Suggestion
+        </h3>
+      </a>
+
+      <a href="yield.html" 
+         class="bg-white/70 backdrop-blur-md p-10 rounded-3xl shadow-xl border border-white/50 text-center transition-all duration-300 hover:scale-105 hover:shadow-green-500/30">
+       <img src="../images/yield.webp" class="w-20 h-20 mx-auto mb-4 object-contain" />
+        <h3 class="text-xl font-bold text-green-800" data-translate="Yield Prediction">
+          Yield Prediction
+        </h3>
+      </a>
+
+    </div>
+
+  </section>
+
+
+  <!-- SCRIPTS -->
+  <script>
+    function loadDashboardUser() {
+      const user = JSON.parse(localStorage.getItem("user"));
+      if (!user) return;
+
+      // Profile Info (Do NOT translate dynamic values)
+      document.getElementById("profileName").innerText = user.name;
+      document.getElementById("profileEmail").innerText = user.email;
+      document.getElementById("profileIcon").innerText = user.name.charAt(0).toUpperCase();
+    }
+
+    loadDashboardUser();
+  </script>
+
+  <script src="nav.js"></script>
+  <script src="translate.js"></script>
+
+</body>
+</html>
